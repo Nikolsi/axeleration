@@ -1,0 +1,32 @@
+{
+  "name": "axeleration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikolsi/axeleration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nikolsi/axeleration/issues"
+  },
+  "homepage": "https://github.com/Nikolsi/axeleration#readme",
+  "dependencies": {
+    "next": "^12.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.34",
+    "typescript": "^4.4.4"
+  }
+}
