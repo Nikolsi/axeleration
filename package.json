@@ -1,5 +1,5 @@
 {
-  "name": "axeleration",
+  "name": "lore",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nikolsi/axeleration.git"
+    "url": "git+https://github.com/Nikolsi/lore.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nikolsi/axeleration/issues"
+    "url": "https://github.com/Nikolsi/lore/issues"
   },
-  "homepage": "https://github.com/Nikolsi/axeleration#readme",
+  "homepage": "https://github.com/Nikolsi/lore#readme",
   "dependencies": {
     "next": "^12.0.3",
     "react": "^17.0.2",
